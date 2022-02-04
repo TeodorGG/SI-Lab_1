@@ -150,6 +150,7 @@ public class LabCriptare1 {
         f_base.add(cb_cezar);
         f_base.add(cb_viginere);
         f_base.add(cb_vernam);
+        
 
         f_base.add(b_crp);
         f_base.add(b_dcrp);

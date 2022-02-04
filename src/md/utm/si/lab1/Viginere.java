@@ -1,6 +1,5 @@
 package md.utm.si.lab1;
 
-import java.util.HashMap;
 
 public class Viginere {
     public static String encrypt(String Message, String Key) {
